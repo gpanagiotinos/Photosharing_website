@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<photos>
+	<photo>
+		<name>Test pic</name>
+		<caption>Test Caption</caption>
+	</photo>
+	<photo>
+		<name>2Test pic</name>
+		<caption>2Test Caption</caption>
+	</photo>
+</photos>
